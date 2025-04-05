@@ -28,5 +28,5 @@ This project is an interactive desktop **data visualization dashboard** built us
 
 ---
 
-## 📂 Project Structure
+
 
